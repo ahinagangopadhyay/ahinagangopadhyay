@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ahinagangopadhyay
-- 👋 I am a Computer Science and Engineering student at National Institute of Technology Durgapur.
-- 👀 I’m interested in learning new technologies,competitive programming and coding.
-- 🌱 I’m currently learning Web Development and Data Structures and Algorithms.
-- 😄 Pronouns: She/Her
+- 👋 Hi, I’m @ahinagangopadhyay.I am a Computer Science and Engineering student at National Institute of Technology Durgapur.
+
+- 👀 I’m interested in learning new technologies and enhancing my coding and technical skills.
+
 
 
 <!---
