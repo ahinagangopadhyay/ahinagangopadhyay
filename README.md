@@ -1,4 +1,4 @@
-
+[![An image of @ahinagangopadhyay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahinagangopadhyay)](https://holopin.io/@ahinagangopadhyay)
 <h2 align="left">Hi 👋, I'm Ahina Gangopadhyay, a passionate Computer Science and Engineering student at the National Institute of Technology, Durgapur, who loves learning about innovation and technology.</h2>
 
 ###
