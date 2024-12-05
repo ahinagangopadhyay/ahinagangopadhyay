@@ -44,7 +44,7 @@
         <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="plt logo"  />
           <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/oandas-original.svg" height="40" alt="pandas logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
