@@ -48,6 +48,9 @@
 </div>
 
 ###
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="ahinagangopadhyay" alt="ahinagangopadhyay" /></a> </p>
+
+
 
 <div align="center">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahinaganguly05@gmail.com" target="_blank">
