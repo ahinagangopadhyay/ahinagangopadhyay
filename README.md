@@ -67,11 +67,6 @@
 
 
 
-###
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="ahinagangopadhyay" alt="ahinagangopadhyay" /></a> </p>
-
-###
 
 ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahinagangopadhyay&theme=react-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
