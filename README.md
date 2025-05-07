@@ -53,6 +53,8 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
 <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="jupyter notebook logo" />
+<img width="12" />
 </div>
 
 ###
