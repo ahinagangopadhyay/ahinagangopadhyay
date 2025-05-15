@@ -1,5 +1,9 @@
-
-<h2 align="left">Hi 👋, I'm Ahina Gangopadhyay, a passionate Computer Science and Engineering student at the National Institute of Technology, Durgapur, who loves learning about innovation and technology.</h2>
+<h2 align="left">Hi 👋, I'm Ahina Gangopadhyay</h2>
+<p align="left">
+🎓 A passionate Computer Science and Engineering student at the <strong>National Institute of Technology, Durgapur</strong>, who loves learning about innovation and technology.
+<br/>
+💡 Currently exploring <strong>Machine Learning</strong>, <strong>Frontend Development</strong> (React, JavaScript), and diving into the world of <strong>Neural Networks</strong> to build intelligent, real-world applications.
+</p>
 
 ###
 <div align="center">
