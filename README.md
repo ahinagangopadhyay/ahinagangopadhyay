@@ -56,10 +56,7 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="jupyter notebook logo" />
 <img width="12" />
-<img src="https://img.icons8.com/fluency/48/000000/windows-terminal.png" height="40" alt="Windows Terminal logo" />
 
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/42886686?s=200&v=4" height="40" alt="Render logo" />
 
 </div>
 
