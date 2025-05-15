@@ -1,9 +1,20 @@
 <h2 align="left">Hi 👋, I'm Ahina Gangopadhyay</h2>
+
 <p align="left">
 🎓 A passionate Computer Science and Engineering student at the <strong>National Institute of Technology, Durgapur</strong>, who loves learning about innovation and technology.
 <br/>
 💡 Currently exploring <strong>Machine Learning</strong>, <strong>Frontend Development</strong> (React, JavaScript), and diving into the world of <strong>Neural Networks</strong> to build intelligent, real-world applications.
+<br/>
+🧠 I am also highly interested in <strong>Data Structures and Algorithms (DSA)</strong> and enjoy solving <strong>Competitive Programming (CP)</strong> challenges to sharpen my problem-solving skills.
+<br/>
+🌱 I am deeply enthusiastic about <strong>Open Source</strong> and have actively participated in:
+<ul>
+  <li>🌸 <strong>GirlScript Summer of Code (GSSoC) 2024</strong></li>
+  <li>❄️ <strong>Social Winter of Code (SWoC) 2024</strong></li>
+  <li>🎃 <strong>Hacktoberfest 2024</strong></li>
+</ul>
 </p>
+
 
 ###
 <div align="center">
