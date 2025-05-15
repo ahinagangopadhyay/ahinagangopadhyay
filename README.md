@@ -32,6 +32,7 @@
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -55,6 +56,11 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" alt="jupyter notebook logo" />
 <img width="12" />
+<img src="https://img.icons8.com/fluency/48/000000/windows-terminal.png" height="40" alt="Windows Terminal logo" />
+
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/42886686?s=200&v=4" height="40" alt="Render logo" />
+
 </div>
 
 ###
