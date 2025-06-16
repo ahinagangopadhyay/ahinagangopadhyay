@@ -76,10 +76,10 @@
 
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
- ![NLTK](https://img.shields.io/badge/NLTK-Natural%20Language%20Toolkit-darkgreen)
- 
-  <img width="12" />
-![spaCy](https://img.shields.io/badge/spaCy-Industrial%20NLP-blue)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_logo.png" height="40" alt="nltk logo" />
+<img width="12" />
+<img src="https://spacy.io/static/img/spacy-logo.svg" height="40" alt="spacy logo" />
+
 
 
 
