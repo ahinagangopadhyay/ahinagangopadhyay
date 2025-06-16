@@ -76,10 +76,6 @@
 
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_logo.png" height="40" alt="nltk logo" />
-<img width="12" />
-<img src="https://spacy.io/static/img/spacy-logo.svg" height="40" alt="spacy logo" />
-
 
 
 
