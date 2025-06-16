@@ -76,6 +76,10 @@
 
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" height="40" alt="nltk logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" height="40" alt="spacy logo" />
+
 
 </div>
 
